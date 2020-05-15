@@ -16,8 +16,7 @@ public class Proyecto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        /*Esto es una prueba*/
+        System.out.println("Registro de personas");
     }
     
 }
